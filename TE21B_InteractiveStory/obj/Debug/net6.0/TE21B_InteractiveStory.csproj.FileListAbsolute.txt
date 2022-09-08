@@ -1,0 +1,15 @@
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\bin\Debug\net6.0\TE21B_InteractiveStory.exe
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\bin\Debug\net6.0\TE21B_InteractiveStory.deps.json
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\bin\Debug\net6.0\TE21B_InteractiveStory.runtimeconfig.json
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\bin\Debug\net6.0\TE21B_InteractiveStory.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\bin\Debug\net6.0\TE21B_InteractiveStory.pdb
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.csproj.AssemblyReference.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.AssemblyInfoInputs.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.AssemblyInfo.cs
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\refint\TE21B_InteractiveStory.dll
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.pdb
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\TE21B_InteractiveStory.genruntimeconfig.cache
+C:\Users\maximilian.persson3\OneDrive - Academedia\Documents\webbutveckling\Biskvier\Programmering\TE21B_InteractiveStory\TE21B_InteractiveStory\obj\Debug\net6.0\ref\TE21B_InteractiveStory.dll

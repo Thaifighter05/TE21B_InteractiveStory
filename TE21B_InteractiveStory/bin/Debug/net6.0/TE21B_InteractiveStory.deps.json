@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TE21B_InteractiveStory/1.0.0": {
+        "runtime": {
+          "TE21B_InteractiveStory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TE21B_InteractiveStory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
